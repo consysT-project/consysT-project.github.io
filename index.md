@@ -162,4 +162,4 @@ Follow the <a href="install.html"><strong>installation instructions</strong></a>
 
 # Credits
 
-ConSysT is a project developed at the Technical University of Darmstadt and at Politecnico di Milano.
+ConSysT is developed at the [programming group](https://programming-group.com/) in Technical University of Darmstadt and University of St. Gallen.
