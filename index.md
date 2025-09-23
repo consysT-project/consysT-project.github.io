@@ -151,6 +151,8 @@ Follow the <a href="install.html"><strong>installation instructions</strong></a>
 
 # Academic Publications
 
+-   Mirko Köhler, George Zakhour, Pascal Weisenburger, Guido Salvaneschi: [Consistent Local-First Software: Enforcing Safety and Invariants for Local-First Applications](tse2024.pdf). IEEE Transactions on Software Engineering (2024). <https://doi.org/10.1109/TSE.2024.3477723>
+
 -   Mirko Köhler, Nafise Eskandani, Pascal Weisenburger, Alessandro Margara, Guido Salvaneschi: [Rethinking Safe Consistency in Distributed Object-Oriented Programming](oopsla2020.pdf). Proc. ACM Program. Lang. 4, OOPSLA, Article 188 (November 2020), 30 pages. <https://doi.org/10.1145/3428256>
 
 -   Mirko Köhler, Nafise Eskandani Masoule, Alessandro Margara, and Guido Salvaneschi. 2020. [ConSysT: Tunable, Safe Consistency Meets Object-Oriented Programming](ftfjp2020.pdf). In Proceedings of the 22th ACM SIGPLAN International Workshop on Formal Techniques for Java-Like Programs (FTfJP ’20), July 23, 2020, Virtual, USA. ACM, New York, NY, USA, 3 pages. <https://doi.org/10.1145/3427761.3428346>
